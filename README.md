@@ -1,8 +1,8 @@
 # Adaptive E-Learning Engine
 
-**Name:** [Insert Your Name]  
-**Section:** [Insert Section]  
-**Date:** [Insert Date]  
+**Name:** RONALD FRANCO GALENDEZ 
+**Section:** CS4D 
+ 
 
 ---
 
@@ -37,5 +37,5 @@ This project implements a rule-based adaptive engine for an e-learning platform.
 ### Execution
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+   git clone [https://github.com/m3izu/Galendez-Elective-Activity1.git](https://github.com/m3izu/Galendez-Elective-Activity1.git)
    cd YOUR_REPOSITORY
